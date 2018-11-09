@@ -1,0 +1,22 @@
+{
+	"data": [{
+		"name": "Jonesy",
+		"isOnline": 0,
+		"path": "jonesy",
+		"version":1
+	},
+	{
+		"name": "Cine",
+		"isOnline": 0,
+		"path": "cine",
+		"version":1
+	},
+	{
+		"name": "SharkMan",
+		"isOnline": 1,
+		"path": "https://github.com/ViralHud/raw/master/bundle/sharkman",
+		"version":1
+	}
+	
+	]
+}
